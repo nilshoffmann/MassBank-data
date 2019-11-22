@@ -35,4 +35,3 @@ PK$NUM_PEAK: 1
 PK$PEAK: m/z int. rel.int.
   135.11769943813692 225.66231 999
 //
-
