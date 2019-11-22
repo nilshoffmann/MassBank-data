@@ -4,7 +4,6 @@ DATE: 2018.11.21
 AUTHORS: Nils Hoffmann, Dominik Kopczynski, Bing Peng
 LICENSE: CC BY-SA
 COPYRIGHT: Copyright (C) 2019, Leibniz Institut fuer Analytische Wissenschaften - ISAS - e.V., Dortmund, Germany
-PUBLICATION: N/A
 COMMENT: CONFIDENCE standard compound
 COMMENT: NATIVE_RUN_ID STD_neg_MSMS_1min0224.mzML
 COMMENT: PROCESSING averaging of repeated ion fragments at 30.0 eV within 5 ppm window [MS, MS:1000575, mean of spectra, ]
@@ -15,7 +14,7 @@ CH$EXACT_MASS: 337.23843
 CH$SMILES: CCCCCC(O)C(O)C\C=C/C\C=C/C\C=C/CCCC([O-])=O
 CH$IUPAC: InChI=1S/C20H34O4/c1-2-3-12-15-18(21)19(22)16-13-10-8-6-4-5-7-9-11-14-17-20(23)24/h4,6-7,9-10,13,18-19,21-22H,2-3,5,8,11-12,14-17H2,1H3,(H,23,24)/p-1/b6-4-,9-7-,13-10-
 CH$LINK: CHEBI CHEBI:84029
-CH$LINK: PUBCHEM CID: N/A
+CH$LINK: PUBCHEM CID: 86583348
 CH$LINK: LIPIDMAPS N/A
 CH$LINK: INCHIKEY SYAWGTIVOGUZMM-ILYOTBPNSA-M
 AC$INSTRUMENT: Agilent QTof 6545, Agilent Technologies [MS:1000490]
